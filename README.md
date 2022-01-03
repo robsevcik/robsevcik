@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @robsevcik
+- 👋 Hi, I’m Rob Sevcik!
 - 👀 I’m interested in coding, cooking and motorcycle riding.
 - 🌱 I’m currently learning how to work with Unreal 4 and c++.
 - 💞️ I’m looking to collaborate on any open sourced game oportunities.
